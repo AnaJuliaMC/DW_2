@@ -1,4 +1,30 @@
 
+# Dados
+
+## Objeto
+- Objetos são coleções de dados, como se fossem objetos da vida real, com caractericas e atributos. Como um cachorro, qual sua raça, sua cor, seu nome, etc.
+
+```javascript
+var cachorro = {
+  nome: "Bob",
+  sexo: "macho",
+  raca: "golden retriver",
+}
+
+console.log(cachorro.nome) // retornara o nome do cachorro 
+```
+
+## Array
+- São obejtos semelhantes a uma lista. 
+
+```javascript
+var a = ["primeiro elemento", "segundo elemento"];
+console.log(a[0]); // exibe 'primeiro elemento'
+console.log(a[1]); // exibe 'segundo elemento'
+```
+
+
+---
 # Tipos de dados
 
 ```javascript
