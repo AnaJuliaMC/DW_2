@@ -1,4 +1,3 @@
-
 ## Escopo
  - Se refere a acessibilidade de variáveis e funções no codigo. Um escopo é criado toda vez que criamos uma função. Veja abaixo:
   ```javascript
